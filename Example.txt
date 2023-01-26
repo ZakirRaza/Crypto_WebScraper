@@ -1,0 +1,1 @@
+{'Bitcoin': '$23,145.87', 'Ethereum': '$1,615.78', 'Tether': '$1.00', 'BNB': '$305.70', 'USD Coin': '$0.9999', 'XRP': '$0.4111', 'Binance USD': '$0.9997', 'Cardano': '$0.3791', 'Dogecoin': '$0.08639', 'Solana': '$24.73'}
